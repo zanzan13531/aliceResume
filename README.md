@@ -1,3 +1,3 @@
 # aliceResume
  
-View at https://zanzan13531.github.io/chemCalculator/
+View at https://zanzan13531.github.io/aliceResume/
