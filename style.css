@@ -1,5 +1,9 @@
 body {
     margin:25px;
-    padding:0;
+    padding:25px;
     font-family: 'Lato', sans-serif;
+}
+div {
+    margin:25px;
+    padding:25px;
 }
