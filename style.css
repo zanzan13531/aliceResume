@@ -2,8 +2,10 @@ body {
     margin:25px;
     padding:25px;
     font-family: 'Lato', sans-serif;
+    background-color: #A9A9A9;
 }
-div {
+#cat, #header_intro, #personal_info, #profile, #categories, #skills, #interests, #hobbies, #contact {
     margin:25px;
-    padding:25px;
+    padding:10px 25px 10px;
+    background-color: #C0C0C0;
 }
