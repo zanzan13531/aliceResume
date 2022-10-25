@@ -1,0 +1,2 @@
+bignumber github page: https://github.com/MikeMcl/bignumber.js
+bignumber documentation: https://mikemcl.github.io/bignumber.js/ 

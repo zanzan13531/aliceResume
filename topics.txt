@@ -1,0 +1,19 @@
+topic_a: a, b, c
+topic_b: b, c
+topic_c: c
+
+
+a: topic_a
+b: topic_a, topic_b
+c: topic_a, topic_b, topic_c
+
+
+acid/base/ph
+atomic structure
+electrochemistry
+units/measurements
+thermo
+bonding
+periodic table
+stoichiometry
+solutions/mixtures
